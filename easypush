@@ -1,0 +1,5 @@
+g add ranks
+
+git commit -m 'Маэстро смеха'
+
+git push -u origin master
